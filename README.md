@@ -4,7 +4,7 @@ Phone Shop is an E-commerce web app for selling phones. It isn't real, only buil
 
 
 ## Live Site
-View page https://burgerduka.netlify.app/
+View page https://dukaphone.netlify.app/
 
 ## How to use the Application
 Pick the phone you want and add to the cart. Then enter your contact details and pay.
